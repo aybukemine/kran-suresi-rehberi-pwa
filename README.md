@@ -1,1 +1,1 @@
-# kran-suresi-rehberi-pwa
+ekran-suresi-rehberi-pwa
